@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning React and GraphQL
-- 👯 I’m looking to collaborate on everything 
+- 👯 I am looking to collaborate in all that I can
 - 📫 How to reach me: Contact me on fabriziogomespereira@hotmail.com
 - 😄 Pronouns: He/Him
 
